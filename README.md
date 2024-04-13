@@ -1,3 +1,3 @@
 # AI Object Detection
 
-- Built using Next 14
+- Built using Next 14.
